@@ -1,0 +1,45 @@
+#Status Update
+
+Completed:
+>sign in 
+>register
+>create account 
+>friends
+>chat
+
+Incomplete: 
+>>Notifications 
+>>Search 
+>>topnav full page dropdown menu 
+
+-=-= Functionality TO ADD -=-=
+
+>>Notifications 
+        >> Super simple interface - no functionality 
+
+>>Search 
+        >> similar to the profile creation process - bit more detailed
+        >> fake search results after searching for team mate  
+
+>>topnav full page dropdown menu 
+        >> drop down animation - keep it basic
+
+>>ADD functionality to chat
+        >> on input render the message to the page 
+        >>> add sounds alert & auto reply on delay
+
+---
+
+##XTRA FUNCTIONS
+>can store color palette in variables and create app themes - add dark mode
+>add functionality that simulates chat 
+
+
+
+#PAGES TODO
+    MEDIUM PRIORITY*
+    >notifications page - basic 
+    >friends list page - basic => complete
+
+Hard coded all user data as it was an efficient way to get the prototype off the ground
+Will create objects with user data & have that rendered dynamically in the final project
